@@ -1,0 +1,324 @@
+85.3
+Current time: 2017-04-25 10:55 Current time difference: 4 days
+85.3
+Current time: 2017-04-25 11:55 Current time difference: 4 days
+85.3
+Current time: 2017-04-25 12:55 Current time difference: 4 days
+82.9
+Current time: 2017-04-25 13:55 Current time difference: 4 days
+79.3
+Current time: 2017-04-25 14:55 Current time difference: 4 days
+84.1
+Current time: 2017-04-25 20:31 Current time difference: 4 days
+84.1
+Current time: 2017-04-25 21:31 Current time difference: 4 days
+84.1
+Current time: 2017-04-25 22:31 Current time difference: 4 days
+74.5
+Current time: 2017-04-25 23:31 Current time difference: 4 days
+74.5
+Current time: 2017-04-26 0:31 Current time difference: 3 days
+74.5
+Current time: 2017-04-26 1:31 Current time difference: 3 days
+77.25
+Current time: 2017-04-26 2:31 Current time difference: 3 days
+77.25
+Current time: 2017-04-26 10:42 Current time difference: 3 days
+73.65
+Current time: 2017-04-26 11:42 Current time difference: 3 days
+73.65
+Current time: 2017-04-26 12:42 Current time difference: 3 days
+77.25
+Current time: 2017-04-26 13:42 Current time difference: 3 days
+74.5
+Current time: 2017-04-26 14:42 Current time difference: 3 days
+74.5
+Current time: 2017-04-26 15:42 Current time difference: 3 days
+74.5
+Current time: 2017-04-26 16:42 Current time difference: 3 days
+72.44
+Current time: 2017-04-26 17:42 Current time difference: 3 days
+72.44
+Current time: 2017-04-26 18:42 Current time difference: 3 days
+72.44
+Current time: 2017-04-26 19:42 Current time difference: 3 days
+72.44
+Current time: 2017-04-26 20:42 Current time difference: 3 days
+74.5
+Current time: 2017-04-26 21:42 Current time difference: 3 days
+74.5
+Current time: 2017-04-26 22:42 Current time difference: 3 days
+88.9
+Current time: 2017-04-26 23:42 Current time difference: 3 days
+88.9
+Current time: 2017-04-27 0:42 Current time difference: 2 days
+88.9
+Current time: 2017-04-27 1:42 Current time difference: 2 days
+92.49
+Current time: 2017-04-27 2:42 Current time difference: 2 days
+92.5
+Current time: 2017-04-27 3:42 Current time difference: 2 days
+92.5
+Current time: 2017-04-27 4:43 Current time difference: 2 days
+92.5
+Current time: 2017-04-27 11:26 Current time difference: 2 days
+92.5
+Current time: 2017-04-27 12:26 Current time difference: 2 days
+92.5
+Current time: 2017-04-27 13:26 Current time difference: 2 days
+92.5
+Current time: 2017-04-27 14:26 Current time difference: 2 days
+97.64
+Current time: 2017-04-27 18:55 Current time difference: 2 days
+97.12
+Current time: 2017-04-27 19:55 Current time difference: 2 days
+86.5
+Current time: 2017-04-27 20:55 Current time difference: 2 days
+97.28
+Current time: 2017-04-27 21:55 Current time difference: 2 days
+94.88
+Current time: 2017-04-27 22:55 Current time difference: 2 days
+94.88
+Current time: 2017-04-27 23:55 Current time difference: 2 days
+98.5
+Current time: 2017-04-28 0:55 Current time difference: 1 days
+98.5
+Current time: 2017-04-28 1:55 Current time difference: 1 days
+108.1
+Current time: 2017-04-28 2:55 Current time difference: 1 days
+108.1
+Current time: 2017-04-28 3:55 Current time difference: 1 days
+108.1
+Current time: 2017-04-28 4:55 Current time difference: 1 days
+121.3
+Current time: 2017-04-28 5:55 Current time difference: 1 days
+126.15
+Current time: 2017-04-28 10:44 Current time difference: 1 days
+110.5
+Current time: 2017-04-28 11:44 Current time difference: 1 days
+110.5
+Current time: 2017-04-28 12:44 Current time difference: 1 days
+104.5
+Current time: 2017-04-28 13:44 Current time difference: 1 days
+104.2
+Current time: 2017-04-28 14:44 Current time difference: 1 days
+99.7
+Current time: 2017-04-28 15:44 Current time difference: 1 days
+99.7
+Current time: 2017-04-28 16:44 Current time difference: 1 days
+99.7
+Current time: 2017-04-28 17:44 Current time difference: 1 days
+99.7
+Current time: 2017-04-28 18:44 Current time difference: 1 days
+99.7
+Current time: 2017-04-28 19:44 Current time difference: 1 days
+98.5
+Current time: 2017-04-28 20:44 Current time difference: 1 days
+98.5
+Current time: 2017-04-28 21:44 Current time difference: 1 days
+86.5
+Current time: 2017-04-28 22:44 Current time difference: 1 days
+97.3
+Current time: 2017-04-28 23:44 Current time difference: 1 days
+97.3
+Current time: 2017-04-29 1:00 Current time difference: 22:59:47
+97.3
+Current time: 2017-04-29 1:10 Current time difference: 22:49:47
+97.3
+Current time: 2017-04-29 1:20 Current time difference: 22:39:46
+97.3
+Current time: 2017-04-29 1:30 Current time difference: 22:29:46
+97.3
+Current time: 2017-04-29 1:40 Current time difference: 22:19:46
+98.5
+Current time: 2017-04-29 1:50 Current time difference: 22:09:45
+98.5
+Current time: 2017-04-29 2:00 Current time difference: 21:59:45
+98.5
+Current time: 2017-04-29 2:10 Current time difference: 21:49:45
+98.5
+Current time: 2017-04-29 2:20 Current time difference: 21:39:44
+98.5
+Current time: 2017-04-29 2:30 Current time difference: 21:29:44
+98.5
+Current time: 2017-04-29 2:40 Current time difference: 21:19:44
+98.5
+Current time: 2017-04-29 2:50 Current time difference: 21:09:44
+98.5
+Current time: 2017-04-29 3:00 Current time difference: 20:59:44
+98.5
+Current time: 2017-04-29 3:10 Current time difference: 20:49:43
+110.5
+Current time: 2017-04-29 3:20 Current time difference: 20:39:43
+110.5
+Current time: 2017-04-29 3:30 Current time difference: 20:29:42
+110.5
+Current time: 2017-04-29 3:40 Current time difference: 20:19:42
+110.5
+Current time: 2017-04-29 3:50 Current time difference: 20:09:42
+110.5
+Current time: 2017-04-29 4:00 Current time difference: 19:59:42
+110.5
+Current time: 2017-04-29 4:10 Current time difference: 19:49:41
+110.5
+Current time: 2017-04-29 4:20 Current time difference: 19:39:41
+110.5
+Current time: 2017-04-29 4:30 Current time difference: 19:29:40
+110.5
+Current time: 2017-04-29 4:40 Current time difference: 19:19:40
+110.5
+Current time: 2017-04-29 4:50 Current time difference: 19:09:40
+110.5
+Current time: 2017-04-29 5:00 Current time difference: 18:59:39
+110.5
+Current time: 2017-04-29 5:10 Current time difference: 18:49:39
+110.5
+Current time: 2017-04-29 5:20 Current time difference: 18:39:38
+110.5
+Current time: 2017-04-29 5:30 Current time difference: 18:29:38
+110.5
+Current time: 2017-04-29 5:40 Current time difference: 18:19:38
+110.5
+Current time: 2017-04-29 5:50 Current time difference: 18:09:38
+110.5
+Current time: 2017-04-29 6:00 Current time difference: 17:59:37
+110.5
+Current time: 2017-04-29 6:10 Current time difference: 17:49:37
+110.5
+Current time: 2017-04-29 6:20 Current time difference: 17:39:37
+110.5
+Current time: 2017-04-29 6:30 Current time difference: 17:29:36
+110.5
+Current time: 2017-04-29 6:40 Current time difference: 17:19:36
+110.5
+Current time: 2017-04-29 6:50 Current time difference: 17:09:36
+110.5
+Current time: 2017-04-29 7:00 Current time difference: 16:59:35
+110.5
+Current time: 2017-04-29 7:10 Current time difference: 16:49:35
+110.5
+Current time: 2017-04-29 7:20 Current time difference: 16:39:35
+110.5
+Current time: 2017-04-29 7:30 Current time difference: 16:29:35
+110.5
+Current time: 2017-04-29 7:40 Current time difference: 16:19:34
+110.5
+Current time: 2017-04-29 7:50 Current time difference: 16:09:34
+110.5
+Current time: 2017-04-29 8:00 Current time difference: 15:59:33
+110.5
+Current time: 2017-04-29 8:10 Current time difference: 15:49:33
+126.1
+Current time: 2017-04-29 10:09 Current time difference: 13:50:12
+126.1
+Current time: 2017-04-29 10:19 Current time difference: 13:40:11
+113.5
+Current time: 2017-04-29 10:29 Current time difference: 13:30:11
+116.5
+Current time: 2017-04-29 10:39 Current time difference: 13:20:11
+116.5
+Current time: 2017-04-29 10:49 Current time difference: 13:10:11
+116.5
+Current time: 2017-04-29 10:59 Current time difference: 13:00:10
+116.5
+Current time: 2017-04-29 11:09 Current time difference: 12:50:10
+116.5
+Current time: 2017-04-29 11:19 Current time difference: 12:40:09
+116.5
+Current time: 2017-04-29 11:29 Current time difference: 12:30:09
+116.5
+Current time: 2017-04-29 11:39 Current time difference: 12:20:09
+116.5
+Current time: 2017-04-29 11:49 Current time difference: 12:10:09
+116.5
+Current time: 2017-04-29 11:59 Current time difference: 12:00:08
+116.5
+Current time: 2017-04-29 12:09 Current time difference: 11:50:08
+116.5
+Current time: 2017-04-29 12:19 Current time difference: 11:40:08
+122.49
+Current time: 2017-04-29 12:29 Current time difference: 11:30:08
+122.49
+Current time: 2017-04-29 12:39 Current time difference: 11:20:07
+122.49
+Current time: 2017-04-29 12:49 Current time difference: 11:10:07
+122.49
+Current time: 2017-04-29 12:59 Current time difference: 11:00:06
+122.49
+Current time: 2017-04-29 13:09 Current time difference: 10:50:05
+122.49
+Current time: 2017-04-29 13:19 Current time difference: 10:40:05
+122.5
+Current time: 2017-04-29 13:29 Current time difference: 10:30:05
+122.5
+Current time: 2017-04-29 13:39 Current time difference: 10:20:05
+122.5
+Current time: 2017-04-29 13:49 Current time difference: 10:10:04
+122.5
+Current time: 2017-04-29 13:59 Current time difference: 10:00:04
+122.5
+Current time: 2017-04-29 14:09 Current time difference: 9:50:04
+124.9
+Current time: 2017-04-29 14:19 Current time difference: 9:40:03
+124.9
+Current time: 2017-04-29 14:29 Current time difference: 9:30:03
+124.9
+Current time: 2017-04-29 14:39 Current time difference: 9:20:03
+124.9
+Current time: 2017-04-29 14:49 Current time difference: 9:10:02
+124.9
+Current time: 2017-04-29 14:59 Current time difference: 9:00:02
+124.9
+Current time: 2017-04-29 15:09 Current time difference: 8:50:02
+124.9
+Current time: 2017-04-29 15:19 Current time difference: 8:40:02
+124.9
+Current time: 2017-04-29 15:29 Current time difference: 8:30:01
+121.9
+Current time: 2017-04-29 15:39 Current time difference: 8:20:01
+119.5
+Current time: 2017-04-29 15:49 Current time difference: 8:10:01
+119.5
+Current time: 2017-04-29 15:59 Current time difference: 8:00:00
+129.69
+Current time: 2017-04-29 20:33 Current time difference: 3:26:53
+122.5
+Current time: 2017-04-29 20:43 Current time difference: 3:16:53
+122.5
+Current time: 2017-04-29 20:53 Current time difference: 3:06:53
+122.5
+Current time: 2017-04-29 21:03 Current time difference: 2:56:52
+122.5
+Current time: 2017-04-29 21:13 Current time difference: 2:46:52
+122.5
+Current time: 2017-04-29 21:23 Current time difference: 2:36:52
+121.3
+Current time: 2017-04-29 21:33 Current time difference: 2:26:51
+140.31
+Current time: 2017-04-29 21:43 Current time difference: 2:16:51
+140.31
+Current time: 2017-04-29 21:53 Current time difference: 2:06:50
+140.31
+Current time: 2017-04-29 22:03 Current time difference: 1:56:50
+139.3
+Current time: 2017-04-29 22:13 Current time difference: 1:46:50
+139.3
+Current time: 2017-04-29 22:23 Current time difference: 1:36:50
+139.29
+Current time: 2017-04-29 22:33 Current time difference: 1:26:49
+139.12
+Current time: 2017-04-29 22:43 Current time difference: 1:16:49
+134.5
+Current time: 2017-04-29 22:53 Current time difference: 1:06:49
+134.32
+Current time: 2017-04-29 23:03 Current time difference: 0:56:49
+134.03
+Current time: 2017-04-29 23:13 Current time difference: 0:46:48
+131.14
+Current time: 2017-04-29 23:23 Current time difference: 0:36:48
+126.04
+Current time: 2017-04-29 23:33 Current time difference: 0:26:48
+124.89
+Current time: 2017-04-29 23:43 Current time difference: 0:16:48
+120.7
+Current time: 2017-04-29 23:53 Current time difference: 0:06:47
